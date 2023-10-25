@@ -1,7 +1,7 @@
 # extractive_qa
 
 ## Overview
-This is a repository for an end-to-end extractive question-answering model created using Python and [Haystack](https://haystack.deepset.ai/) framework.
+This is a repository for an Python code used to build an end-to-end extractive question-answering model using [Haystack](https://haystack.deepset.ai/) framework.
 
 Haystack is an end-to-end open-source framework for creating Question-Answering models. Haystack has three primary components: the DocumentStore, Retriever, and Reader.
 
